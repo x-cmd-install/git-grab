@@ -7,7 +7,7 @@ about:
   head: d87fea4
   archived: true
   latestVersion: 4.0.1
-  collectedAt: 2026-09-04T19:56:58Z
+  collectedAt: 2026-09-04T20:42:22Z
 timeline:
   created: 2021-07-07
   lastCommit: 2026-05-12
@@ -81,6 +81,29 @@ total:
   openIssue: 5
   commit: 61
 ---
+path: /home/runner/.x-repo/github.com/wezm/git-grab
+collectedAt: 2026-09-04T20:42:23Z
+loc:
+  Rust:
+    code: 634
+    comments: 10
+    blanks: 90
+    files: 5
+  Toml:
+    code: 21
+    comments: 3
+    blanks: 6
+    files: 1
+  Markdown:
+    code: 0
+    comments: 141
+    blanks: 55
+    files: 1
+total:
+  code: 655
+  comments: 159
+  blanks: 151
+  files: 7
 ---
 date: "2026-08-24"
 repo:
