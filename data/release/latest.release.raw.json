@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 235951,
       "digest": "sha256:a44c99d218a32234f1ec727e0aaa04b7e76f35ef6cb2b582243d08cf51a15d03",
-      "download_count": 141,
+      "download_count": 142,
       "created_at": "2026-01-05T06:13:54Z",
       "updated_at": "2026-01-05T06:13:55Z",
       "browser_download_url": "https://github.com/wezm/git-grab/releases/download/4.0.1/git-grab-4.0.1-x86_64-pc-windows-msvc.zip"
