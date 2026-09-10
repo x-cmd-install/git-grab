@@ -1,0 +1,95 @@
+- repo: arch
+  subrepo: extra
+  srcname: git-grab
+  binname: git-grab
+  visiblename: git-grab
+  version: 4.0.1
+  origversion: 4.0.1-3
+  status: newest
+  summary: A tool to clone git repositories to a standard location organised by domain and path
+  licenses:
+    - MIT OR Apache-2.0
+- repo: chimera
+  subrepo: user
+  srcname: git-grab
+  binname: git-grab
+  visiblename: git-grab
+  version: 4.0.1
+  origversion: 4.0.1-r0
+  status: newest
+  summary: Clone a git repository into a standard location
+  licenses:
+    - MIT OR Apache-2.0
+- repo: chimera
+  subrepo: user
+  srcname: git-grab
+  binname: git-grab-doc
+  visiblename: git-grab-doc
+  version: 4.0.1
+  origversion: 4.0.1-r0
+  status: newest
+  summary: Clone a git repository into a standard location (documentation)
+  licenses:
+    - MIT OR Apache-2.0
+- repo: chimera
+  subrepo: user
+  srcname: git-grab
+  binname: git-grab-man
+  visiblename: git-grab-man
+  version: 4.0.1
+  origversion: 4.0.1-r0
+  status: newest
+  summary: Clone a git repository into a standard location (manual pages)
+  licenses:
+    - MIT OR Apache-2.0
+- repo: homebrew
+  srcname: git-grab
+  visiblename: git-grab
+  version: 4.0.1
+  origversion: null
+  status: newest
+  summary: Clone a git repository into a standard location organised by domain and path
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: git-grab
+  binname: git-grab
+  visiblename: git-grab
+  version: 4.0.1
+  origversion: 4.0.1-3
+  status: newest
+  summary: A tool to clone git repositories to a standard location organised by domain and path
+  licenses:
+    - MIT OR Apache-2.0
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: git-grab
+  binname: git-grab
+  visiblename: git-grab
+  version: 4.0.1
+  origversion: 4.0.1-3
+  status: newest
+  summary: A tool to clone git repositories to a standard location organised by domain and path
+  licenses:
+    - MIT OR Apache-2.0
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: git-grab
+  binname: git-grab
+  visiblename: git-grab
+  version: 4.0.1
+  origversion: 4.0.1-3
+  status: newest
+  summary: A tool to clone git repositories to a standard location organised by domain and path
+  licenses:
+    - MIT OR Apache-2.0
+- repo: parabola
+  subrepo: extra
+  srcname: git-grab
+  binname: git-grab
+  visiblename: git-grab
+  version: 4.0.1
+  origversion: 4.0.1-3
+  status: newest
+  summary: A tool to clone git repositories to a standard location organised by domain and path
+  licenses:
+    - MIT OR Apache-2.0
