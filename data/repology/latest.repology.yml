@@ -1,3 +1,10 @@
+- repo: homebrew
+  srcname: git-grab
+  visiblename: git-grab
+  version: 4.0.1
+  origversion: null
+  status: newest
+  summary: Clone a git repository into a standard location organised by domain and path
 - repo: arch
   subrepo: extra
   srcname: git-grab
@@ -45,13 +52,6 @@
 - repo: homebrew
   srcname: git-grab
   visiblename: git-grab
-  version: 4.0.1
-  origversion: null
-  status: newest
-  summary: Clone a git repository into a standard location organised by domain and path
-- repo: homebrew
-  srcname: git-grab
-  visiblename: git-grab
   version: HEAD
   origversion: null
   status: rolling
@@ -61,23 +61,25 @@
   srcname: git-grab
   binname: git-grab
   visiblename: git-grab
-  version: 4.0.1
-  origversion: 4.0.1-3
-  status: newest
+  version: 1.0.1
+  origversion: 1.0.1-1
+  status: outdated
   summary: A tool to clone git repositories to a standard location organised by domain and path
   licenses:
-    - MIT OR Apache-2.0
+    - MIT
+    - Apache
 - repo: manjaro_testing
   subrepo: extra
   srcname: git-grab
   binname: git-grab
   visiblename: git-grab
-  version: 4.0.1
-  origversion: 4.0.1-3
-  status: newest
+  version: 1.0.1
+  origversion: 1.0.1-1
+  status: outdated
   summary: A tool to clone git repositories to a standard location organised by domain and path
   licenses:
-    - MIT OR Apache-2.0
+    - MIT
+    - Apache
 - repo: manjaro_unstable
   subrepo: extra
   srcname: git-grab
